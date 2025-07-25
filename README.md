@@ -146,12 +146,4 @@ npm run build
 - Lucide React for beautiful icons
 - Netlify for seamless deployment
 
-## 📞 Support
-
-If you have any questions or need support, please:
-- Open an issue on GitHub
-- Contact: your.email@example.com
-
----
-
 ⭐ **Star this repository if you found it helpful!**
